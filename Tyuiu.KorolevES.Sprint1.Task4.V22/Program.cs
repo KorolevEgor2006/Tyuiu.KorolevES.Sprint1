@@ -29,6 +29,7 @@ namespace Tyuiu.KorolevES.Sprint1.Task4.V22
             double y = Convert.ToDouble(Console.ReadLine());
             DataService ds = new DataService();
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
+            
             if (x * y >= 0)
             {
                 Console.WriteLine(ds.Calculate(x, y));
