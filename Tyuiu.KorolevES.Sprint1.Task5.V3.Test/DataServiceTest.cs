@@ -8,6 +8,7 @@ namespace Tyuiu.KorolevES.Sprint1.Task5.V3.Test
         public void ValidExpossions()
         {
             int k = 130985;
+
             DataService ds = new DataService();
             int h = ds.Calculate(k);
             int res = 9;

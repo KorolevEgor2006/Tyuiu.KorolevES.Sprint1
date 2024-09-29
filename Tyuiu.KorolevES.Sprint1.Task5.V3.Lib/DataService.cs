@@ -6,6 +6,7 @@ namespace Tyuiu.KorolevES.Sprint1.Task5.V3.Lib
         public int Calculate(int k)
         {
             string s = Convert.ToString(k).Substring(Convert.ToString(k).Length - 3);
+
             return Convert.ToInt32(s.Substring(0,1));
         }
     }
