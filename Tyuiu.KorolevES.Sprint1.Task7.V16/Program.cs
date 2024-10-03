@@ -9,7 +9,7 @@ namespace Tyuiu.KorolevES.Sprint1.Task7.V16
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Cпринт #1                                                               *");
-            Console.WriteLine("* Тема: Class Math                                                        *");
+            Console.WriteLine("* Тема: Добавление к решению итоговых проектов по спринту                 *");
             Console.WriteLine("* Задание #7                                                              *");
             Console.WriteLine("* Вариант #16                                                             *");
             Console.WriteLine("* Выполнил: Королев Егор Сергеевич | АСОиУб-24-1                          *");
