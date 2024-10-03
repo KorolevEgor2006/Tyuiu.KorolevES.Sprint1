@@ -5,6 +5,7 @@ namespace Tyuiu.KorolevES.Sprint1.Task5.V3
     {
         static void Main(string[] args)
         {
+            Console.Title = "Спринт #1 | Выполнил: Королев Е. С.| АСОиУб-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Cпринт #1                                                               *");
             Console.WriteLine("* Тема: Преобразование типов и класс Convert                              *");
