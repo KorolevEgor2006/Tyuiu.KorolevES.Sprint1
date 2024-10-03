@@ -5,6 +5,7 @@ namespace Tyuiu.KorolevES.Sprint1.Task6.V16
     {
         static void Main(string[] args)
         {
+            Console.Title = "Спринт #1 | Выполнил: Королев Е. С.| АСОиУб-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Cпринт #1                                                               *");
             Console.WriteLine("* Тема: Работа со строками класс String                                   *");
@@ -24,6 +25,7 @@ namespace Tyuiu.KorolevES.Sprint1.Task6.V16
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                               ");
             DataService ds = new DataService();
             Console.WriteLine(ds.CheckSpecSymbols(textcheck));
+            Console.ReadKey();
         }
     }
 }
