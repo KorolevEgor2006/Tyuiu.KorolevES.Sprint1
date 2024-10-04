@@ -9,7 +9,7 @@ namespace Tyuiu.KorolevES.Sprint1.Task2.V23
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Cпринт #1                                                               *");
-            Console.WriteLine("* Тема: Организация ввода\\вывода в консольных приложениях                *");
+            Console.WriteLine("* Тема: Арифметические операторы в C#                                     *");
             Console.WriteLine("* Задание #2                                                              *");
             Console.WriteLine("* Вариант #23                                                             *");
             Console.WriteLine("* Выполнил: Королев Егор Сергеевич | АСОиУб-24-1                          *");
